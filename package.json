@@ -1,0 +1,21 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Learn You Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "config": "tsc -b"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Juanjo",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  }
+}

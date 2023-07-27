@@ -1,0 +1,5 @@
+this is a file
+to test the function fs
+this function or module is in the global scope of node
+the result must give
+five lines
