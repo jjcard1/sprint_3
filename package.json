@@ -12,6 +12,8 @@
   "author": "Juanjo",
   "license": "ISC",
   "dependencies": {
+    "bl": "^6.0.7",
+    "through2-map": "^3.0.0",
     "typescript": "^5.1.6"
   },
   "devDependencies": {

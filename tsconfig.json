@@ -110,6 +110,16 @@
     "./learnYouNode/1_helloWorld/hello-world.ts",
     "./learnYouNode/2_babySteps/baby-steps.ts",
     "./learnYouNode/3_myFirstIO/my-first-io.ts",
-    "./learnYouNode/4_myFirstAsync/my-first-async-io.ts"
+    "./learnYouNode/4_myFirstAsync/my-first-async-io.ts",
+    "./learnYouNode/5_filteredLS/filtered-ls.ts",
+    "./learnYouNode/6_makeItModular/make-it-modular.ts",
+    "./learnYouNode/6_makeItModular/mymodule.ts",
+    "./learnYouNode/7_httpClient/http-client.ts",
+    "./learnYouNode/8_httpCollect/http-collect.ts",
+    "./learnYouNode/9_jugglingAsync/juggling-async.ts",
+    "./learnYouNode/10_timeServer/time-server.ts",
+    "./learnYouNode/11_httpFileServer/http-file-server.ts",
+    "./learnYouNode/12_httpUppercaserer/http-uppercaserer.ts",
+    "./learnYouNode/13_httpJsonApiServer/http-json-api-server.ts"
   ]
 }
